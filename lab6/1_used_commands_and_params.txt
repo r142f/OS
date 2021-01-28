@@ -1,0 +1,7 @@
+@REM mkdir 
+@REM VER: ab57.ru/cmdlist/ver.html
+@REM SYSTEMINFO: ab57.ru/cmdlist/systeminfo.html
+@REM FINDSTR: ab57.ru/cmdlist/findstr.html, /C:"string to search"
+@REM DISKPART: ab57.ru/cmdlist/diskpart.html, /S:"script"
+@REM DEL: ab57.ru/cmdlist/del.html
+@REM DIR: ab57.ru/cmdlist/dir.html, /b - only filenames

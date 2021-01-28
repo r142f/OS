@@ -1,0 +1,3 @@
+@REM DRIVERQUERY: ab57.ru/cmdlist/sc.html, /FO format
+@REM SORT: ab57.ru/cmdlist/sort.html, /r - reversed
+@REM FINDSTR: ab57.ru/cmdlist/findstr.html

@@ -1,0 +1,3 @@
+Comparing files C:\WINDOWS\file.txt and \\USER-PC\TEMP\FILE.TXT
+FC: no differences encountered
+

@@ -1,0 +1,246 @@
+Comparing files C:\WINDOWS\file.txt and \\USER-PC\TEMP\FILE.TXT
+***** C:\WINDOWS\file.txt
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+***** \\USER-PC\TEMP\FILE.TXT
+›z8
+
+
+
+
+€È¯WLõÖàßpÈRõÖ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+
+
+
+
+
+
+
+
+6
+
+e..." 
+"This is just a sample line appended to create a big file..." 
+*****
+
+Resync Failed.  Files are too different.
+***** C:\WINDOWS\file.txt
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+"This is just a sample line appended to create a big file..." 
+***** \\USER-PC\TEMP\FILE.TXT
+"This is just a sample line appended to create a big file..." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****
+

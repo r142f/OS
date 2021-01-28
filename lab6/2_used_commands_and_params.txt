@@ -1,0 +1,11 @@
+@REM ECHO: ab57.ru/cmdlist/echo.html
+@REM TYPE: ab57.ru/cmdlist/type.html
+@REM DEL: ab57.ru/cmdlist/type.html
+@REM NET: ab57.ru/cmdlist/net.html, /DELETE - stop sharing the resource, /GRANT[permissions]:WHO,WHICH, /unlimited - number of users, accessing the resource
+@REM RD: ab57.ru/cmdlist/rd.html
+@REM MKDIR
+@REM SCHTASKS: ab57.ru/cmdlist/schtasks.html, /query, /create, /end - activity, /tn - task name, /tr - command, script to run, /fo list - output format
+@REM TIMEOUT: ab57.ru/cmdlist/timeout.html, /T - time to wait
+@REM FC: ab57.ru/cmdlist/fc.html
+@REM COPY: ab57.ru/cmdlist/copy.html, /Z - copies networked files in restartable mode
+@REM FINDSTR: ab57.ru/cmdlist/findstr.html

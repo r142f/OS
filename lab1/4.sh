@@ -1,0 +1,7 @@
+#!bin/bash
+if [[ $PWD == $HOME ]]; then
+  echo $HOME
+  exit 0
+fi
+echo "Error!"
+exit 1

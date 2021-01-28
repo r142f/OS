@@ -1,0 +1,885 @@
+Comparing files 3_services_initial.txt and 3_SERVICES.TXT
+***** 3_services_initial.txt
+
+SERVICE_NAME: Dnscache
+DISPLAY_NAME: DNS Client
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: DPS
+DISPLAY_NAME: Diagnostic Policy Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: DPS
+DISPLAY_NAME: Diagnostic Policy Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: eventlog
+DISPLAY_NAME: Windows Event Log
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: eventlog
+DISPLAY_NAME: Windows Event Log
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: EventSystem
+DISPLAY_NAME: COM+ Event System
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: EventSystem
+DISPLAY_NAME: COM+ Event System
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: fdPHost
+DISPLAY_NAME: Function Discovery Provider Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: fdPHost
+DISPLAY_NAME: Function Discovery Provider Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: FDResPub
+DISPLAY_NAME: Function Discovery Resource Publication
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: FDResPub
+DISPLAY_NAME: Function Discovery Resource Publication
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: FontCache
+DISPLAY_NAME: Windows Font Cache Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: FontCache
+DISPLAY_NAME: Windows Font Cache Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: gpsvc
+DISPLAY_NAME: Group Policy Client
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: gpsvc
+DISPLAY_NAME: Group Policy Client
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: HomeGroupListener
+DISPLAY_NAME: HomeGroup Listener
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: HomeGroupListener
+DISPLAY_NAME: HomeGroup Listener
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: HomeGroupProvider
+DISPLAY_NAME: HomeGroup Provider
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: HomeGroupProvider
+DISPLAY_NAME: HomeGroup Provider
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: iphlpsvc
+DISPLAY_NAME: IP Helper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: iphlpsvc
+DISPLAY_NAME: IP Helper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: KeyIso
+DISPLAY_NAME: CNG Key Isolation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: KeyIso
+DISPLAY_NAME: CNG Key Isolation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: LanmanServer
+DISPLAY_NAME: Server
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: LanmanServer
+DISPLAY_NAME: Server
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: LanmanWorkstation
+DISPLAY_NAME: Workstation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: LanmanWorkstation
+DISPLAY_NAME: Workstation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: lmhosts
+DISPLAY_NAME: TCP/IP NetBIOS Helper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: lmhosts
+DISPLAY_NAME: TCP/IP NetBIOS Helper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: MpsSvc
+DISPLAY_NAME: Windows Firewall
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: MpsSvc
+DISPLAY_NAME: Windows Firewall
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Netman
+DISPLAY_NAME: Network Connections
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Netman
+DISPLAY_NAME: Network Connections
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: netprofm
+DISPLAY_NAME: Network List Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: netprofm
+DISPLAY_NAME: Network List Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: NlaSvc
+DISPLAY_NAME: Network Location Awareness
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: NlaSvc
+DISPLAY_NAME: Network Location Awareness
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: nsi
+DISPLAY_NAME: Network Store Interface Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: nsi
+DISPLAY_NAME: Network Store Interface Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: p2pimsvc
+DISPLAY_NAME: Peer Networking Identity Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: p2pimsvc
+DISPLAY_NAME: Peer Networking Identity Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: p2psvc
+DISPLAY_NAME: Peer Networking Grouping
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: p2psvc
+DISPLAY_NAME: Peer Networking Grouping
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: PcaSvc
+DISPLAY_NAME: Program Compatibility Assistant Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: PcaSvc
+DISPLAY_NAME: Program Compatibility Assistant Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: PlugPlay
+DISPLAY_NAME: Plug and Play
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: PlugPlay
+DISPLAY_NAME: Plug and Play
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: PNRPsvc
+DISPLAY_NAME: Peer Name Resolution Protocol
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: PNRPsvc
+DISPLAY_NAME: Peer Name Resolution Protocol
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Power
+DISPLAY_NAME: Power
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Power
+DISPLAY_NAME: Power
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: ProfSvc
+DISPLAY_NAME: User Profile Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: ProfSvc
+DISPLAY_NAME: User Profile Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: ProtectedStorage
+DISPLAY_NAME: Protected Storage
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: ProtectedStorage
+DISPLAY_NAME: Protected Storage
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: RpcEptMapper
+DISPLAY_NAME: RPC Endpoint Mapper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: RpcEptMapper
+DISPLAY_NAME: RPC Endpoint Mapper
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: RpcSs
+DISPLAY_NAME: Remote Procedure Call (RPC)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: RpcSs
+DISPLAY_NAME: Remote Procedure Call (RPC)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: SamSs
+DISPLAY_NAME: Security Accounts Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: SamSs
+DISPLAY_NAME: Security Accounts Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Schedule
+DISPLAY_NAME: Task Scheduler
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Schedule
+DISPLAY_NAME: Task Scheduler
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: SENS
+DISPLAY_NAME: System Event Notification Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: SENS
+DISPLAY_NAME: System Event Notification Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: ShellHWDetection
+DISPLAY_NAME: Shell Hardware Detection
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: ShellHWDetection
+DISPLAY_NAME: Shell Hardware Detection
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Spooler
+DISPLAY_NAME: Print Spooler
+        TYPE               : 110  WIN32_OWN_PROCESS  (interactive)
+        STATE              : 4  RUNNING 
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Spooler
+DISPLAY_NAME: Print Spooler
+        TYPE               : 110  WIN32_OWN_PROCESS  (interactive)
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: sppsvc
+DISPLAY_NAME: Software Protection
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: sppsvc
+DISPLAY_NAME: Software Protection
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: sppuinotify
+DISPLAY_NAME: SPP Notification Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: sppuinotify
+DISPLAY_NAME: SPP Notification Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: SSDPSRV
+DISPLAY_NAME: SSDP Discovery
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: SSDPSRV
+DISPLAY_NAME: SSDP Discovery
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: SysMain
+DISPLAY_NAME: Superfetch
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: SysMain
+DISPLAY_NAME: Superfetch
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Themes
+DISPLAY_NAME: Themes
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Themes
+DISPLAY_NAME: Themes
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: TrkWks
+DISPLAY_NAME: Distributed Link Tracking Client
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: TrkWks
+DISPLAY_NAME: Distributed Link Tracking Client
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: TrustedInstaller
+DISPLAY_NAME: Windows Modules Installer
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: TrustedInstaller
+DISPLAY_NAME: Windows Modules Installer
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: upnphost
+DISPLAY_NAME: UPnP Device Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: upnphost
+DISPLAY_NAME: UPnP Device Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: UxSms
+DISPLAY_NAME: Desktop Window Manager Session Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: UxSms
+DISPLAY_NAME: Desktop Window Manager Session Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: vds
+DISPLAY_NAME: Virtual Disk
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: vds
+DISPLAY_NAME: Virtual Disk
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: WdiServiceHost
+DISPLAY_NAME: Diagnostic Service Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: WdiServiceHost
+DISPLAY_NAME: Diagnostic Service Host
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: WinDefend
+DISPLAY_NAME: Windows Defender
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: WinDefend
+DISPLAY_NAME: Windows Defender
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: WinHttpAutoProxySvc
+DISPLAY_NAME: WinHTTP Web Proxy Auto-Discovery Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: WinHttpAutoProxySvc
+DISPLAY_NAME: WinHTTP Web Proxy Auto-Discovery Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: Winmgmt
+DISPLAY_NAME: Windows Management Instrumentation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** 3_services_initial.txt
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: Winmgmt
+DISPLAY_NAME: Windows Management Instrumentation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: WMPNetworkSvc
+DISPLAY_NAME: Windows Media Player Network Sharing Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: WMPNetworkSvc
+DISPLAY_NAME: Windows Media Player Network Sharing Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: wscsvc
+DISPLAY_NAME: Security Center
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: wscsvc
+DISPLAY_NAME: Security Center
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: WSearch
+DISPLAY_NAME: Windows Search
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: WSearch
+DISPLAY_NAME: Windows Search
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+***** 3_SERVICES.TXT
+
+SERVICE_NAME: wuauserv
+DISPLAY_NAME: Windows Update
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+*****
+
+***** 3_services_initial.txt
+
+SERVICE_NAME: wuauserv
+DISPLAY_NAME: Windows Update
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+***** 3_SERVICES.TXT
+*****
+

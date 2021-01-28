@@ -1,0 +1,4 @@
+@REM SC: ab57.ru/cmdlist/sc.html, query - query service state, stop - stop service, start - start service
+@REM TIMEOUT: ab57.ru/cmdlist/timeout.html, /T - time to wait
+@REM FC: ab57.ru/cmdlist/fc.html
+@REM FINDSTR: ab57.ru/cmdlist/findstr.html
